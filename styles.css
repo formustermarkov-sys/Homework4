@@ -1,10 +1,15 @@
 .buttoncart {
-    padding: 14px 8px;
-    font-size: 48px;
-    text-align: center;
-    font-style: normal;
-    font-family: "Our News";
-    color: #e3e3e3;
-    background-color: #a27b5c;
-    border: 10px;
+    padding: 48px 158px;
+    padding-top: 4px;
+    padding-right: 5px;
+    padding-bottom: 4px;
+    padding-left: 5px;
+    font-family: sans-serif/DM Sans;    
+    font: medium;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background-color: #A27B5C;
+    border: 16px;
+
 }
